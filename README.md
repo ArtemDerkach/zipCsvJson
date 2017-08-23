@@ -66,3 +66,7 @@ result:
   |--package.json
 
 ```
+
+## important
+parse specific type of csv:
+- csv delimiter "||" 
