@@ -24,7 +24,7 @@ open command line in zipCsvJson folder
 run the next command  
 `$ node app.js <path to zip file> <path to output file>`  
 `<path to zip file>` - is the path to archive  
-`<path to output file>` - output file path and name, if no param is given save in curerrent folder as data.json
+`<path to output file>` - output file path and name, if no param is given, save in current folder as data.json
 
 ## examples
 
